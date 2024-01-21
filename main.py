@@ -13,3 +13,6 @@ a = z = q = 10
 w, r, b = 12, "Word", True
 
 print(word, res, w, r, b)
+
+//рррррррр//
+
